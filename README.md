@@ -6,7 +6,7 @@
 * The Dice game divided by three part of game: winner, loser, and draw
 * This game has created six steps
 
-### I set up this game for six steps:  
+### Set up this game for six steps:  
 * Create an external Javascript file
 * Add Dice images
 * Create a random number
